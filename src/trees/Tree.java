@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Tree {
-	TreeNode root;
+	public TreeNode root;
 
 	public Tree() {
 	}
